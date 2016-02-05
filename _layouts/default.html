@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
+  { % include head.html % }
+	<body>
 			<nav>
 	    		<ul>
 	        		<li><a href="/">Home</a></li>
@@ -15,15 +11,11 @@
 	    		</ul>
 			</nav>
 			<div class="container">
-			
+
 			{{ content }}
-			
+
 			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:tinodawsino@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/dawsino">github.com/dawsino</a></li>
-				</ul>
-			</footer>
+
+			{ % inlcude footer.html % }
 		</body>
 	</html>
