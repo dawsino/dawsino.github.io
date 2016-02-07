@@ -41,3 +41,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.jumbotron{
+  background-image: url('../img/DSC04616.JPG');
+  colour: white;
+}
