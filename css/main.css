@@ -3,6 +3,10 @@ body {
     margin: 60px auto;
     width: 100%;
 }
+
+.navbar-brand {
+  color: #9933ff;
+}
 nav ul, footer ul {
     font-family: 'Roboto Condensed', sans-serif;
     color:       #9933ff;
