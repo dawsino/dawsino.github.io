@@ -8,7 +8,7 @@ body {
   color: #9933ff;
   font-family: 'Roboto Condensed', sans-serif;
 }
-nav ul, footer ul {
+nav ul, nav a, footer ul {
     font-family: 'Roboto Condensed', sans-serif;
     color:       #9933ff;
     padding: 0px;
