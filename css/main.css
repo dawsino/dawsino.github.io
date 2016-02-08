@@ -4,10 +4,11 @@ body {
     width: 100%;
 }
 
-.navbar-header {
+header {
   color: #9933ff;
   font-family: 'Roboto Condensed', sans-serif;
 }
+
 nav ul, nav a, footer ul {
     font-family: 'Roboto Condensed', sans-serif;
     color:       #9933ff;
