@@ -1,15 +1,17 @@
 body {
-    text-color:       #9494b7;
+    color:       #9933ff;
     margin: 60px auto;
     width: 100%;
 }
 nav ul, footer ul {
     font-family: 'Roboto Condensed', sans-serif;
+    color:       #9933ff;
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
+    color:       #9933ff;
     font-family: 'Roboto Condensed', sans-serif;
     display: inline;
 
