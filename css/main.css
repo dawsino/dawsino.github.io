@@ -10,15 +10,11 @@ header {
 }
 
 nav ul, nav a, footer ul {
-    font-family: 'Roboto Condensed', sans-serif;
-    color:       #9933ff;
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    color:       #9933ff;
-    font-family: 'Roboto Condensed', sans-serif;
     display: inline;
 
 }
