@@ -9,15 +9,15 @@ header {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-nav {
-  color: #9933ff;
-}
+
 nav ul, nav a, footer ul {
+    color: #9933ff;
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
+    color: #9933ff;
     display: inline;
 
 }
@@ -42,10 +42,12 @@ footer {
 }
 
 ul.posts {
+    color: #9933ff;
     margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
+      color: #9933ff;
     list-style: none;
 }
