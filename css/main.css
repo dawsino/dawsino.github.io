@@ -44,5 +44,6 @@ ul.posts li {
 
 .jumbotron{
   background-image: url('../img/DSC04616.JPG');
+  background-size: contain;
   colour: white;
 }
