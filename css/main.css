@@ -6,6 +6,7 @@ body {
 
 .navbar-brand {
   color: #9933ff;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 nav ul, footer ul {
     font-family: 'Roboto Condensed', sans-serif;
