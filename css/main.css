@@ -9,6 +9,9 @@ header {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
+.navbar-brand {
+  color: purple;
+}
 
 nav ul, nav a, footer ul {
     color: purple;
