@@ -56,7 +56,8 @@ ul.posts li {
   padding: 0px 0px;
   font-size: 36px;
   line-height: 36px;
-  border: 1px;
+  border-style: solid;
+  border-width: 1px;
 }
 
 .navbar-default {
