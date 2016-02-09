@@ -1,22 +1,12 @@
 ---
 layout: default
-title: Blog
+title: BLOG
 ---
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-4">
-        <img class="img-responsive" src="/img/dusty.jpg">
-        <h2>Over</h2>
-      </div>
-      <div class="col-xs-8">
-          <h3>Potential Blog Entry Title</h3>
-      </div>
-    </div>
-  </div>
-
+<div class="container">
 <h1>{{ page.title }}</h1>
 <ul class="posts">
    {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
    {% endfor %}
 </ul>
+</div>
