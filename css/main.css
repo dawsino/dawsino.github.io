@@ -1,4 +1,5 @@
 body {
+    color: purple;
     margin: 60px auto;
     width: 100%;
 }
@@ -8,9 +9,7 @@ header {
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-.nav-dawson {
-    color: purple;
-}
+
 nav ul, nav a, footer ul {
     padding: 0px;
     list-style: none;
