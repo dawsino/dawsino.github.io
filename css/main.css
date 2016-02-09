@@ -32,9 +32,9 @@ h1 {
     font-family: Verdana, "Bitstream Vera Sans", sans-serif;
 }
 p {
+    color: #9494b7;
     font-size: 12px;
     line-height: 1.4em;
-    color: purple;
 }
 footer {
     border-top: 1px solid #d5d5d5;
