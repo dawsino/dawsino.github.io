@@ -28,11 +28,11 @@ a:hover {
 }
 h1 {
     colour: purple;
-    font-size: 3em;
+    font-size: 24px;
     font-family: 'Roboto Condensed', sans-serif;
 }
 p {
-    font-size: 12pxm;
+    font-size: 12px;
     line-height: 1.4em;
     color: purple;
 }
