@@ -67,6 +67,6 @@ ul.posts li {
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #5e5e5e;
+  color: purple;
   background-color: transparent;
 }
