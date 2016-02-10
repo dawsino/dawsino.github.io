@@ -2,7 +2,6 @@
 layout: post
 title: "Subject Matters"
 date: 2016-02-10
-author: "Martin Dawson"
 ---
 
 Post number one was short, post number two was rambling on about where to start, and now on to post number three. No more stalling: this is the stuff I want to cover in this Blog.
