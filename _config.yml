@@ -1,16 +1,16 @@
 # Site settings
-title: Dawsneyland
+title: MartsMedia
 header-img: img/myeye.jpg
-email: dawsneyland@gmail.com
+email: tinodawsino@gmail.com
 copyright_name: Martin Dawson
-description: "Dawsneyland exists in the head of Martin Dawson. Here he shares his thoughts and interests."
+description: "Videos, photos and words about my family."
 baseurl: ""
-url: "http://www.dawsneyland.com"
-twitter_username: dawsneyland
-instagram_username:  dawsneyland
-youtube_username:  dawsneyland
-pinterest_username:  dawsneyland
-disqusid: disqus_5CGZhxZvQy
+#url: "http://www.dawsneyland.com"
+#twitter_username: dawsneyland
+#instagram_username:  dawsneyland
+#youtube_username:  dawsneyland
+#pinterest_username:  dawsneyland
+#disqusid: disqus_5CGZhxZvQy
 
 # Build settings
 markdown: kramdown
