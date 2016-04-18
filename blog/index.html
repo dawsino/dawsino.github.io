@@ -1,11 +1,27 @@
 ---
 layout: page
-title: BLOG
+title: "Blog"
+description: "That's what I'm talking about!"
+header-img: "img/penpaper.jpg"
 ---
-<div class="container">
-<ul>
-   {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-   {% endfor %}
-</ul>
-</div>
+
+<!--
+{% for post in site.posts %}
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <p>{{ post.date | date: "%d %b %Y" }} &bull; {{ post.title }}
+        </p>
+    </a>
+{% endfor %}
+-->
+
+
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
+    {% assign date = currentdate %}
+  {% endif %}
+    <h5><a href="{{ post.url }}">{{ post.date | date: "%d %b %Y" }} &bull; {{ post.title }}</a></h5>
+  {% if forloop.last %}{% endif %}
+{% endfor %}
