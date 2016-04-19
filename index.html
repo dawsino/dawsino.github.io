@@ -2,7 +2,7 @@
 layout: page
 description: "Videos, pictures and words about my family!"
 ---
-{% for post in paginator.posts %}
+{% for post in site.posts %}
 <div class="col-md-4">
   <div class="post-preview">
       <a href="{{ post.url | prepend: site.baseurl }}">
@@ -28,6 +28,7 @@ description: "Videos, pictures and words about my family!"
 
 <!-- Pager -->
 
+<!--
 {% if paginator.total_pages > 1 %}
 
 <ul class="pager">
@@ -55,3 +56,4 @@ description: "Videos, pictures and words about my family!"
 </ul>
 
 {% endif %}
+-->
