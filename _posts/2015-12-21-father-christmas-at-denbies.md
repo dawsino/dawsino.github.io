@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Father Christmas at Denbies"
-subtitle: "The children's trip to see Father Christmas."
+subtitle: "The children's trip to see Father Christmas"
 description: "Christmas"
 date: 2015-12-21 12:00:00
 author: "Martin Dawson"
-header-img: "img/DSC05543.JPG"
+header-img: "/img/DSC05543.JPG"
 comments: False
 youtubeid: "z9SQyy5xssM"
 ---
