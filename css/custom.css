@@ -36,14 +36,16 @@ h1, h2, h3, h4, h5, h6, body {
 }
 
 .post-preview > .post-meta {
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
-    font-size: 16px;
+    font-size: 10px;
     color: purple;
 }
 
 
 .post-preview > a > .post-title {
-    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
     color: purple;
 }
 
