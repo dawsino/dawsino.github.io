@@ -3,7 +3,7 @@ layout: page
 description: "Videos, pictures and words about my family!"
 ---
 {% for post in paginator.posts %}
-<div class="post-preview">
+<div class="post-preview col-md-4">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h3 class="post-title">
             {{ post.title }}
@@ -24,7 +24,7 @@ description: "Videos, pictures and words about my family!"
 <hr>
 {% endfor %}
 
- 
+
 
 <!-- Pager -->
 
