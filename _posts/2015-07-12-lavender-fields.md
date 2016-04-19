@@ -7,6 +7,6 @@ date: 2015-07-12 12:00:00
 author: "Martin Dawson"
 header-img: "/img/03.jpg"
 comments: False
-youtubeid: "z_EJj8wJf_w"
+youtubeId: "z_EJj8wJf_w"
 ---
 After a day at Priory Farm Park running around in the heat of the afternoon sun, we stopped off at the Lavender Fields on the way home. The children loved it.
