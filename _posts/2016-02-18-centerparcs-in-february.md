@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Centerparcs in February"
-subtitle: "Another Forest holiday, but with the whole family."
+subtitle: "Another Forest holiday, but with the whole family"
 description: "Centerparcs"
 date: 2016-02-18 12:00:00
 author: "Martin Dawson"
-header-img: "img/2016-02-18_10-31-01.jpg"
+header-img: "/img/2016-02-18_10-31-01.jpg"
 comments: False
 youtubeId: "gKkJKnTc0-0"
 ---
