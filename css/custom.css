@@ -2,20 +2,7 @@
 
 body {
   background-color: lightgrey;
-  font-size: 10px;
-  max-width: 960px;
-}
-
-.social-contacts {
-  color: purple;
-  padding: 5px 0px 5px 0px;
-  list-style-type: none;
-  text-align: center;
-  vertical-align: middle;
-}
-
-.fa {
-  color: purple;
+  font-size: 20px;
 }
 
 .intro-header {
