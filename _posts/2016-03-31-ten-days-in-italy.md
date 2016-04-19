@@ -8,7 +8,6 @@ author: "Martin Dawson"
 header-img: "img/florence.jpg"
 youtubeId: "BGzc9WoK0pI"
 comments: False
-categories: [filmmaking, family]
 ---
 The three of us went on a family holiday to Italy, splitting our time between Venice and Florence.
 The holiday consisted of drinking decent coffee, eating lovely pastries, pizza, pasta and ice cream, and running round the many squares and public spaces in pursuit of elusive pigeons.
