@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Shepherd"
-subtitle: "Dylan's First Nativity."
+subtitle: "Dylan's First Nativity"
 description: "Christmas"
 date: 2015-12-10 12:00:00
 author: "Martin Dawson"
