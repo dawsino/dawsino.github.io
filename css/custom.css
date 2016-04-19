@@ -91,7 +91,11 @@ ul.share-buttons{
   padding: 0;
 }
 
-.container {
+ul.share-buttons li{
+  display: inline;
+}
+
+.ytcontainer {
     position: relative;
     width: 100%;
     height: 0;
@@ -104,8 +108,6 @@ ul.share-buttons{
     width: 100%;
     height: 100%;
 }
-ul.share-buttons li{
-  display: inline;
-}
+
 
 
