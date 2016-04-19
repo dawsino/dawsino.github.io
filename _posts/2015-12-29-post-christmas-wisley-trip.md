@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Post-Christmas Wisley Trip"
-subtitle: "Back to Wisley after the holidays."
+subtitle: "Back to Wisley after the holidays"
 description: "Christmas"
 date: 2015-12-29 12:00:00
 author: "Martin Dawson"
-header-img: "img/DSC06529.JPG"
+header-img: "/img/DSC06529.JPG"
 youtubeid: "BcgfeDbSYtE"
 comments: False
 ---
