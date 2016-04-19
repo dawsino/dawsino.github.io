@@ -3,6 +3,7 @@
 body {
   background-color: lightgrey;
   font-size: 10px;
+  max-width: 960px;
 }
 
 .social-contacts {
