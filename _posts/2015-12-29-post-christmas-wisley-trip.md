@@ -5,7 +5,7 @@ subtitle: "Back to Wisley after the holidays."
 description: "Christmas"
 date: 2015-12-29 12:00:00
 author: "Martin Dawson"
-header-img: "img/camera.jpg"
+header-img: "img/DSC06529.JPG"
 comments: False
 categories: [filmmaking, family]
 ---
