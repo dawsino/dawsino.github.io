@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Ten Days in Italy"
-subtitle: "Family holiday to Venice and Florence."
+subtitle: "Family holiday to Venice and Florence"
 description: "Italy holiday"
 date: 2016-03-31 12:00:00
 author: "Martin Dawson"
-header-img: "img/florence.JPG"
+header-img: "/img/florence.JPG"
 youtubeId: "BGzc9WoK0pI"
 comments: False
 ---
