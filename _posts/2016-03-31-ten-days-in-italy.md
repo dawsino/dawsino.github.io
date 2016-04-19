@@ -5,7 +5,7 @@ subtitle: "Family holiday to Venice and Florence."
 description: "Italy holiday"
 date: 2016-03-31 12:00:00
 author: "Martin Dawson"
-header-img: "img/camera.jpg"
+header-img: "img/florence.jpg"
 youtubeId: "BGzc9WoK0pI"
 comments: False
 categories: [filmmaking, family]
