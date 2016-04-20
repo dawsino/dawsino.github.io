@@ -123,6 +123,7 @@ h1, h2, h3, h4, h5, h6, body {
 .logo > a:hover, .logo > a:focus  {
     font-family:  'Ubuntu', sans-serif;
     font-size: 24px;
+    font-weight: 800;
     text-align: center;
     text-decoration: none;
     color: purple;
