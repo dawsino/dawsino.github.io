@@ -20,7 +20,7 @@ header-img: "img/penpaper.jpg"
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
-    <h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
+    <br><h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1><br>
     {% assign date = currentdate %}
   {% endif %}
     <h5 class="blog-title"><a href="{{ post.url }}">{{ post.title }}</a></h5>
