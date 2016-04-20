@@ -110,3 +110,11 @@ h1, h2, h3, h4, h5, h6, body {
     margin: auto;
     
 }
+
+.logo {
+    font-family:  'Ubuntu', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    text-decoration: none;
+    color: purple;
+}
