@@ -145,6 +145,7 @@ h1, h2, h3, h4, h5, h6, body {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-size: 12px;
+    text- transform: uppercase;
     text-decoration: none;
     padding: 0 10px 0 10px;
 }
