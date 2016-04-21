@@ -23,7 +23,7 @@ header-img: "img/penpaper.jpg"
     {% assign date = currentdate %}
   {% endif %}
 
-    <h5><a class="blogarchive" href="{{ post.url }}">{{ post.date | date: "%d/%m" }} &bull; {{ post.title }}</a></h5>
+    <h5 class="blogarchive"><a href="{{ post.url }}">{{ post.date | date: "%d/%m" }} &bull; {{ post.title }}</a></h5>
 
   {% if forloop.last %}{% endif %}
 {% endfor %}
