@@ -187,10 +187,13 @@ h1, h2, h3, h4, h5, h6, body {
     background-size: cover;
 }
 
-.blogarchive {
+.blogarchive > a {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-size: 12px;
     text-decoration: none;
-  
+}
+
+.blogarchive > a:hover {
+    color: purple;
 }
