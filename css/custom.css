@@ -148,6 +148,12 @@ h1, h2, h3, h4, h5, h6, body {
     text-decoration: none;
     padding: 0 10px 0 10px;
 }
+
+.menu > li > a:hover {
+    color: purple;
+    text-decoration: none;
+}
+
  .menuborder {
     display: block;
     margin-top: 0;
