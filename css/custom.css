@@ -128,3 +128,17 @@ h1, h2, h3, h4, h5, h6, body {
     text-align: center;
     padding: 10px 25px;
 }
+
+.menu {
+    margin: 0;
+    padding: 0;
+}
+
+.menu > li {
+    list-style: none;
+    display: inline-block;
+}
+
+.menu > li > a {
+    text- decoration: none;
+}
