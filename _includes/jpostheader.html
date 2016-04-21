@@ -1,7 +1,7 @@
 
 <!-- Jumbotron Post Header -->
 <header>
-    <div class="jumbotron" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="jumbotron" style="background-image: url('{{ site.baseurl }}{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
         <div class="container">
             <div class="post-heading">
                 <h1>{{ page.title }}</h1>
