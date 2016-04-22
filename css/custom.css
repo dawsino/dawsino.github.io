@@ -24,6 +24,7 @@ h1, h2, h3, h4, h5, h6, body {
 
 }
 
+/*
 .post-preview > .post-meta {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -36,6 +37,54 @@ h1, h2, h3, h4, h5, h6, body {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
     color: purple;
+}
+*/
+
+/*Post Preview styles*/
+
+.post-preview > a {
+  color: #404040;
+}
+.post-preview > a:hover,
+.post-preview > a:focus {
+  text-decoration: none;
+  color: #0085a1;
+}
+.post-preview > a > .post-title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: purple;
+}
+
+.post-preview > a > .post-subtitle {
+  margin: 0;
+  font-weight: 300;
+  margin-bottom: 5px;
+}
+.post-preview > .post-meta {
+  font-family: 'Roboto', sans-serif;
+  color: #808080;
+  font-size: 16px;
+  font-style: italic;
+  margin-top: 0;
+}
+
+
+.post-preview > .post-meta > a {
+  text-decoration: none;
+  color: #404040;
+}
+.post-preview > .post-meta > a:hover,
+.post-preview > .post-meta > a:focus {
+  color: #0085a1;
+  text-decoration: underline;
+}
+@media only screen and (min-width: 768px) {
+  .post-preview > a > .post-title {
+    font-size: 36px;
+  }
 }
 
 .nav, .navbar-default, .navbar-header, .navbar-custom, .navbar {
